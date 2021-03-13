@@ -1,0 +1,13 @@
+C:\Users\kriz\source\repos\permutator_3\permutator_3\bin\Debug\netcoreapp3.1\permutator_3.exe
+C:\Users\kriz\source\repos\permutator_3\permutator_3\bin\Debug\netcoreapp3.1\permutator_3.deps.json
+C:\Users\kriz\source\repos\permutator_3\permutator_3\bin\Debug\netcoreapp3.1\permutator_3.runtimeconfig.json
+C:\Users\kriz\source\repos\permutator_3\permutator_3\bin\Debug\netcoreapp3.1\permutator_3.runtimeconfig.dev.json
+C:\Users\kriz\source\repos\permutator_3\permutator_3\bin\Debug\netcoreapp3.1\permutator_3.dll
+C:\Users\kriz\source\repos\permutator_3\permutator_3\bin\Debug\netcoreapp3.1\permutator_3.pdb
+C:\Users\kriz\source\repos\permutator_3\permutator_3\obj\Debug\netcoreapp3.1\permutator_3.csprojAssemblyReference.cache
+C:\Users\kriz\source\repos\permutator_3\permutator_3\obj\Debug\netcoreapp3.1\permutator_3.AssemblyInfoInputs.cache
+C:\Users\kriz\source\repos\permutator_3\permutator_3\obj\Debug\netcoreapp3.1\permutator_3.AssemblyInfo.cs
+C:\Users\kriz\source\repos\permutator_3\permutator_3\obj\Debug\netcoreapp3.1\permutator_3.csproj.CoreCompileInputs.cache
+C:\Users\kriz\source\repos\permutator_3\permutator_3\obj\Debug\netcoreapp3.1\permutator_3.dll
+C:\Users\kriz\source\repos\permutator_3\permutator_3\obj\Debug\netcoreapp3.1\permutator_3.pdb
+C:\Users\kriz\source\repos\permutator_3\permutator_3\obj\Debug\netcoreapp3.1\permutator_3.genruntimeconfig.cache
