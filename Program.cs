@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace permutator_3
+namespace permutator
 {
     class Car{
         public string color = "";

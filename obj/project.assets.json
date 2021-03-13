@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kriz\\source\\repos\\permutator_3\\permutator_3\\permutator_3.csproj",
-      "projectName": "permutator_3",
-      "projectPath": "C:\\Users\\kriz\\source\\repos\\permutator_3\\permutator_3\\permutator_3.csproj",
+      "projectUniqueName": "C:\\Users\\kriz\\source\\repos\\permutator_3\\permutator_3\\permutator.csproj",
+      "projectName": "permutator",
+      "projectPath": "C:\\Users\\kriz\\source\\repos\\permutator_3\\permutator_3\\permutator.csproj",
       "packagesPath": "C:\\Users\\kriz\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kriz\\source\\repos\\permutator_3\\permutator_3\\obj\\",
       "projectStyle": "PackageReference",

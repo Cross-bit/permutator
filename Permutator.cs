@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace permutator_3
+namespace permutator
 {
     public class Permutator<T> : IPermutator<T>
     {

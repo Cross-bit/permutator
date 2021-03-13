@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace permutator_3
+namespace permutator
 {
     public interface IPermutator <T>{
         List<T[]> GetPermutations { get; }
