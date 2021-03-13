@@ -1,0 +1,2 @@
+# permutator
+Simple permutation class
