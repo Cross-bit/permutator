@@ -10,3 +10,4 @@ C:\Users\kriz\source\repos\permutator_3\permutator_3\obj\Debug\netcoreapp3.1\per
 C:\Users\kriz\source\repos\permutator_3\permutator_3\obj\Debug\netcoreapp3.1\permutator.dll
 C:\Users\kriz\source\repos\permutator_3\permutator_3\obj\Debug\netcoreapp3.1\permutator.pdb
 C:\Users\kriz\source\repos\permutator_3\permutator_3\obj\Debug\netcoreapp3.1\permutator.genruntimeconfig.cache
+C:\Users\kriz\source\repos\permutator_3\permutator_3\obj\Debug\netcoreapp3.1\permutator.csprojAssemblyReference.cache
