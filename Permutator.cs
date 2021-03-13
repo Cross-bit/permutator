@@ -49,10 +49,6 @@ namespace permutator
             _permutations.Add(arrTemp);
         }
 
-        public int Factorial(int n) {
-            if (n <= 1)
-                return n;
-            return Factorial(n - 1)*n;
-        }
+        public int Factorial(int n) => (n <= 1) ? n : Factorial(n - 1) * n;
     }
 }
